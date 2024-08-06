@@ -1,0 +1,1 @@
+to run, in the terminal change folder to 'snake-backend', then run the python through the venv in that folder, and 'npm start' from 'my-react-app' to start the game. 
